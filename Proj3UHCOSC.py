@@ -51,7 +51,7 @@ for values in range(14):  # Their is 14 rows that need to be counted up
 for i in data_employer:
     cleaner_data = (i, data_employer[i][0], data_employer[i][1])
 
-out_employer = []
+out_employer = [] #THis is just a comment
 
 for i in data_employer:
     row = []
